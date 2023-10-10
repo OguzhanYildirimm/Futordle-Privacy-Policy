@@ -1,11 +1,11 @@
 # Futordle-Privacy-Policy
 <h1>Privacy Policy</h1>
 
-This privacy policy has been created to provide information about the collection and use of personal information during the use of our mobile application, "Football Player Puzzle Game." Please read this policy carefully.
+This privacy policy has been created to provide information about the collection and use of personal information during the use of our mobile application, "Futordle" Please read this policy carefully.
 
 <h2>Data Collection and Usage</h2>
 
-Personal Information Collection: The "Football Player Puzzle Game" application does not collect any personal information from users. Your name, email address, or other personal details are not required when using the application.
+Personal Information Collection: The "Futordle" application does not collect any personal information from users. Your name, email address, or other personal details are not required when using the application.
 
 Advertisement Displays: We may display advertisements within the application. These advertisements may be used to enable ad providers to deliver targeted ads based on user interests. Anonymous information, such as your advertising identifier on your device, may be used to personalize these ads.
 
